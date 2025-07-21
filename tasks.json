@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Write report",
+    "description": "Prepare the quarterly financial report",
+    "completed": false,
+    "due_date": "2025-07-30"
+  },
+  {
+    "title": "Email client",
+    "description": "Send project update to Acme Corp",
+    "completed": true,
+    "due_date": "2025-07-15"
+  },
+  {
+    "title": "Backup database",
+    "description": "Run nightly backup script",
+    "completed": false,
+    "due_date": "2025-07-22"
+  }
+]
