@@ -16,7 +16,7 @@ class Task:
     # setter
     def mark_completed(self):
         self._completed = True
-        Task..task_count -= 1
+        Task.task_count -= 1
 
     def __str__(self):
         status = "Ok" if self._completed else "No"
